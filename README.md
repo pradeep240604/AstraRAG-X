@@ -200,10 +200,8 @@ AstraRAG-X/
 
 
 ---
-
 # ENGINEERING HIGHLIGHTS
 
-```markdown id="k7v3qx"
 ---
 
 ## Engineering Highlights
@@ -251,5 +249,3 @@ https://github.com/pradeep240604
 
 LinkedIn:
 https://www.linkedin.com/in/sai-pradeep-kala-5a9068265
-
-
