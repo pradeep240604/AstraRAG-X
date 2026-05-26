@@ -146,7 +146,7 @@ with st.sidebar:
 
     api_url = st.text_input(
         "Backend URL",
-        value="http://127.0.0.1:8000"
+        value="https://astrarag-x.onrender.com"
     )
 
     st.divider()
