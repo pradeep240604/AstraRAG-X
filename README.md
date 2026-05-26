@@ -158,7 +158,8 @@ AstraRAG-X/
 
 ---
 
-##Frontendmain UI
+## Frontend Main UI
+
 ![Frontend Main UI](screenshots/Frontendmain_ui.png)
 
 ---
@@ -184,8 +185,6 @@ AstraRAG-X/
 ## FastAPI Backend APIs
 
 ![Swagger API](screenshots/Backend_API.png)
-
----
 
 ## API Endpoints
 
