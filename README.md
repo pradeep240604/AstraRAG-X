@@ -119,7 +119,6 @@ The project focuses on building scalable and modular GenAI system architecture r
 - GitHub
 
 ---
-
 ## Project Structure
 
 ```bash
@@ -151,6 +150,7 @@ AstraRAG-X/
 ├── runtime.txt
 └── README.md
 
+```
 
 ---
 
@@ -169,6 +169,7 @@ AstraRAG-X/
 ![Main UI](screenshots/main_ui.png)
 
 ---
+
 
 ## Explainable AI Responses
 
