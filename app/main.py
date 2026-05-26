@@ -106,12 +106,6 @@ def ask_question(query: str):
 
     vector_store = vector_store_manager.load_vector_store()
 
-    if vector_store is None:
-
-        vector_store = vector_store_manager.create_vector_store(
-            chunks
-        )
-
     # Hybrid Retrieval
     retriever = HybridRetriever(
         vector_store=vector_store,
@@ -291,11 +285,6 @@ def chat(query: str):
 
     vector_store = vector_store_manager.load_vector_store()
 
-    if vector_store is None:
-
-        vector_store = vector_store_manager.create_vector_store(
-            chunks
-        )
 
     # Retrieval
     retriever = HybridRetriever(
@@ -407,12 +396,6 @@ def stream_answer(query: str):
     )
 
     vector_store = vector_store_manager.load_vector_store()
-
-    if vector_store is None:
-
-        vector_store = vector_store_manager.create_vector_store(
-            chunks
-        )
 
     # Hybrid Retrieval
     retriever = HybridRetriever(

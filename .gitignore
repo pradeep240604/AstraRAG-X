@@ -1,7 +1,6 @@
 __pycache__/
 .env
 venv/
-storage/faiss_index/
 *.pyc
 .DS_Store
 .streamlit/secrets.toml

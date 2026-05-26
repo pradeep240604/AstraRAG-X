@@ -6,3 +6,4 @@ class EmbeddingGenerator:
     def get_embeddings(self):
         return self.embedding_model
     
+    
